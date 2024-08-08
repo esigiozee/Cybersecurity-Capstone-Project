@@ -7,15 +7,15 @@ Project consists of a 5 phases of a structured walkthrough penetration test of a
 <br />
 
 <h2>Project Phases</h2>
-<br />
 
-Phase 1 [here](Phase_1.md) 
+Phase 1 [here](Phase_1.md)
 
-Phase 2 [here](Phase_2.md)
+Phase 2 [here](Phase_2.md) 
 
 Phase 3 [here](Phase_3.md) 
 
-Phase 4 [here](Phase_4.md)
+Phase 4 [here](Phase_4.md) 
 
 Phase 5 [here](Phase_5_Artemis_Penetration_Testing_Report.md)
 
+<br />
